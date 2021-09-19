@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import About from './components/About/About';
+import Commmunity from './components/Community/Community';
+import Education from './components/Education/Education';
+import Experience from './components/Experience/Experience';
+import Introduction from './components/Introduction/introduction';
+import PetProjects from './components/PetProjects/PetProjects';
+import Talk from './components/Talk/talk';
+import Writing from './components/Writing/writing';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Asharib
-        </a>
-      </header>
+      <Introduction/>
+      <About/>
+      <Experience/>
+      <Writing/>
+      <Education/>
+      <Talk/>
+      <PetProjects/>
+      <Commmunity/>
     </div>
   );
 }
