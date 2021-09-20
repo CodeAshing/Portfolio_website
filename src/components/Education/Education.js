@@ -7,7 +7,7 @@ const Education = () => {
         <div>
             <h1 className='set'>
                 Education
-                <img className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/scenarium-vol-12/128/012_036-256.png"/>
+                <img alt='education' className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/scenarium-vol-12/128/012_036-256.png"/>
             </h1>
             
             <div className='exp'>

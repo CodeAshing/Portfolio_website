@@ -7,7 +7,7 @@ const Community = () => {
         <div className="c_div">
             <h1 className='set'>
                 Community Work 
-                <img className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-256.png"/>
+                <img alt='community' className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-256.png"/>
             </h1>
             <div className='community'>
                 <div>                    

@@ -7,7 +7,7 @@ const Talk = () => {
         <div>
             <h1 className='set'>
                 Talks
-                <img className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/home-activity-1/512/videoconference-meeting-video-conference-communication-256.png"/>
+                <img alt='talk' className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/home-activity-1/512/videoconference-meeting-video-conference-communication-256.png"/>
             </h1>
             <div className='talk'>
                 <div>                    

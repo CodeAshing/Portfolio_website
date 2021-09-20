@@ -7,7 +7,7 @@ const Writing = () => {
         <div>
             <h1 className='set'>
                 Writing
-                <img className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/comforting-things-2/128/notebook_diary_writing_reading_pencil-256.png"/>
+                <img alt='writing' className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/comforting-things-2/128/notebook_diary_writing_reading_pencil-256.png"/>
             </h1>
             <div className='write'>
                 <div>                    

@@ -7,7 +7,7 @@ const Experience = () => {
         <div>
             <h1 className='set'>
                 Experience
-                <img width='50' src="https://cdn4.iconfinder.com/data/icons/marketing-and-digital-marketing/32/business_marketing_advertising_research-256.png"/>
+                <img width='50'alt='experience' src="https://cdn4.iconfinder.com/data/icons/marketing-and-digital-marketing/32/business_marketing_advertising_research-256.png"/>
             </h1>
             
             <div className='exp'>
