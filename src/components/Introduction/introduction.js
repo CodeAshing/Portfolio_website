@@ -9,9 +9,8 @@ const Introduction = () => {
                 Asharib Ahmed
             </h1>
             <div className='lines'>
-            Former DSC Lead at Google Developers | α Microsoft Learn Student Ambassador 
-            | Ambassador @ Deeplearning.ai | AWS Community Builder | AI Enthusiast | MERN Stack | Learner
-            </div>
+                Data Scientist @ Star Marketing | Former DSC Lead at Google Developers | β Microsoft Learn Student Ambassador | Ambassador @ Deeplearning.ai 
+            | AWS Community Builder | AI Enthusiast | MERN Stack | Learner</div>
             <div className='icons'>
                 <a href='https://www.linkedin.com/in/itsasharib' target="_blank" className='f_icon'> 
                     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png"
