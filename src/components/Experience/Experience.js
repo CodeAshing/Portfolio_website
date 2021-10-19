@@ -10,12 +10,27 @@ const Experience = () => {
                 <img width='50'alt='experience' src="https://cdn4.iconfinder.com/data/icons/marketing-and-digital-marketing/32/business_marketing_advertising_research-256.png"/>
             </h1>
             
-            <div className='exp'>
+            <div className='exp'> 
 
                 <div>                    
-                    <b>Data Science Intern | Aug 21 - Present </b>                
+                    <b>Data Scientist | Oct 21 - Present </b>                
                     <div className="para">
-                        @LetsGrowMore, I'm working completely vitually. I'm working on a problems like 
+                        @Star Marketing.
+                    </div>
+                </div>
+                
+                <div>                    
+                    <b>Data Science and Business Analytics Intern | Sep 21 - Oct 21 </b>                
+                    <div className="para">
+                        @Spark Foundation, I developed a Deep Learning based model from the given Iris dataset,
+                        predict the optimum number of clusters and represented that visually.
+                    </div>
+                </div>
+
+                <div>                    
+                    <b>Data Science Intern | Sep 21 - Oct 21 </b>                
+                    <div className="para">
+                        @LetsGrowMore, I was working completely vitually and I was working on a problems like 
                         prediction using decision tree algorithm, ML facial recognition to detect mood and suggest songs accordingly
                         and Develop a neural network that can read handwriting.
                     </div>

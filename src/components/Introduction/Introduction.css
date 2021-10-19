@@ -1,8 +1,10 @@
 .set{
+    padding: 10px;
     margin-bottom : 0%;
     font-size: 50px;
 }
 .icons{
+    padding: 2px;
     margin: 12px;
     margin-left: 0px;
 }
@@ -12,4 +14,7 @@
 .f_icon{
     margin: 12px;
     margin-left: 0px;
+}
+.lines{
+    padding: 10px;
 }

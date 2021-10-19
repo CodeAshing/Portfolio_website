@@ -8,7 +8,7 @@ const Introduction = () => {
             <h1 className='set'>
                 Asharib Ahmed
             </h1>
-            <div>
+            <div className='lines'>
             Former DSC Lead at Google Developers | α Microsoft Learn Student Ambassador 
             | Ambassador @ Deeplearning.ai | AWS Community Builder | AI Enthusiast | MERN Stack | Learner
             </div>
