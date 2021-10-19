@@ -37,7 +37,7 @@ const Introduction = () => {
                     alt="Gmail" width='50px'/>
                  </a>
 
-                 <a href='https://bit.ly/3CwnQKx' target="_blank" className='icon'> 
+                 <a href='https://bit.ly/3lVSNT1' target="_blank" className='icon'> 
                     <img src="https://cdn1.iconfinder.com/data/icons/business-people-orchid-vol-2-1/1000/Resume-256.png"
                     alt="Resume" width='50px'/>
                  </a>
