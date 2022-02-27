@@ -20,7 +20,7 @@ const Education = () => {
                 </div>
 
                 <div>                    
-                    <b>Sep 21 - Present </b>                
+                    <b>Sep 21 - Jan 22 </b>                
                     <div className="para">
                         Fellowship from Global Citizen Year (Academy) 
                     </div>

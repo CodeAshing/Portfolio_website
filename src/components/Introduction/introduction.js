@@ -9,8 +9,7 @@ const Introduction = () => {
                 Asharib Ahmed
             </h1>
             <div className='lines'>
-                Data Scientist @ Star Marketing | Former DSC Lead at Google Developers | β Microsoft Learn Student Ambassador | Ambassador @ Deeplearning.ai 
-            | AWS Community Builder | AI Enthusiast | MERN Stack | Learner</div>
+                Data Scientist @ Star Marketing | Former DSC Lead at Google Developers | β Microsoft Learn Student Ambassador | GitKraken Ambassador         | Ambassador @ Deeplearning.ai | AWS Community Builder | AI Enthusiast | MERN Stack | Learner</div>
             <div className='icons'>
                 <a href='https://www.linkedin.com/in/itsasharib' target="_blank" className='f_icon'> 
                     <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png"
@@ -37,7 +36,7 @@ const Introduction = () => {
                     alt="Gmail" width='50px'/>
                  </a>
 
-                 <a href='https://bit.ly/3lVSNT1' target="_blank" className='icon'> 
+                 <a href='https://drive.google.com/file/d/1I-6zrB-0LL0jKLlQs3Yiu2xx7OhGpESK/view?usp=sharing' target="_blank" className='icon'> 
                     <img src="https://cdn1.iconfinder.com/data/icons/business-people-orchid-vol-2-1/1000/Resume-256.png"
                     alt="Resume" width='50px'/>
                  </a>

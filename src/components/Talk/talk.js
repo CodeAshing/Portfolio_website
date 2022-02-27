@@ -10,7 +10,12 @@ const Talk = () => {
                 <img alt='talk' className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/home-activity-1/512/videoconference-meeting-video-conference-communication-256.png"/>
             </h1>
             <div className='talk'>
-            <div className='talk'>                    
+                <div className='talk'>                    
+                    <b>Feb 2022 | </b> 
+                    <a className='link' target="_blank" href='https://twitter.com/asharib90/status/1495842811245178887'>
+                        Speaker session on Git, Github and open source </a>
+                </div>
+                <div className='talk'>                    
                     <b>Nov 2021 | </b> 
                     <a className='link' target="_blank" href='https://youtu.be/kfL-uCmV6Uk'>
                         Interview at Sindh Madressatul Islam University </a>
