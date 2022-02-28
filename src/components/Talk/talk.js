@@ -9,7 +9,7 @@ const Talk = () => {
                 Talks
                 <img alt='talk' className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/home-activity-1/512/videoconference-meeting-video-conference-communication-256.png"/>
             </h1>
-            <div className='talk'>
+            <div className='exp'>
                 <div className='talk'>                    
                     <b>Feb 2022 | </b> 
                     <a className='link' target="_blank" href='https://twitter.com/asharib90/status/1495842811245178887'>

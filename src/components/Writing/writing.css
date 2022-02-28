@@ -1,7 +1,9 @@
 .set{
-    margin-bottom : 0%;
-    font-size: 30px;
+    margin-bottom: 0%;
+    font-size: 43px;
     padding-top: 25px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #ffffff1f;
 }
 .write{
     margin: 10px;

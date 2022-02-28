@@ -4,12 +4,13 @@ import './community.css';
 const Community = () => {
 
     return(
-        
-        <div className="c_div">
-            <h1 className='set'>
-                Community Work 
-                <img alt='community' className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-256.png"/>
-            </h1>
+        <>
+        <h1 className='set'>
+        Community Work 
+        <img alt='community' className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-256.png"/>
+    </h1>
+        <div className="exp">
+           
             <div className='community'>
                 <div>                    
                     <b> Feb 22 - Present   | </b>                    
@@ -48,6 +49,7 @@ const Community = () => {
                 </div>
             </div>
         </div>
+        </>
     )    
 }
 export default Community

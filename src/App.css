@@ -1,10 +1,13 @@
-.App {
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-  font-size: 16px;
-  font-family: 'Times New Roman', Times, serif;
+body {
+  margin: 0;
+  font-family: 'League Spartan', sans-serif !important;
+}
+.App {
+  max-width: 100%;
+  font-size: 18px;
   line-height: 1.15;
   color: white;
+  padding: 1vw 10vw;
 }

@@ -5,12 +5,14 @@ import me from './me.jpg';
 const Introduction = () => {
 
     return(
-        <div>
+        <div className='mainsection'>
+
             <div>
                 <img className="photo" alt='image' src={me}></img>
             </div>
+
             <div>
-                <h1 className='set'>
+                <h1 className='heading'>
                     Asharib Ahmed
                 </h1>
                 <div className='lines'>

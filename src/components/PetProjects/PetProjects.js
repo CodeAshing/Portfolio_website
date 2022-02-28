@@ -10,7 +10,7 @@ const PetProjects = () => {
                 <img className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/design-and-development-2-6/136/51-256.png"/>
             </h1>
             
-            <div className='pet_pro'>
+            <div className='exp'>
 
                 <div>                    
                     <b>Distant Speech Recognition | Dec 20  </b> 

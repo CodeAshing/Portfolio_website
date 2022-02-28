@@ -5,6 +5,8 @@ const Education = () => {
 
     return(
         <div>
+            <br></br>  <br></br>
+          
             <h1 className='set'>
                 Education
                 <img alt='education' className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/scenarium-vol-12/128/012_036-256.png"/>
