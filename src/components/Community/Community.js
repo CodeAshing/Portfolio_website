@@ -10,6 +10,18 @@ const Community = () => {
         <img alt='community' className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-256.png"/>
     </h1>
         <div className="exp">
+        <div className='community'>
+                <div>                    
+                    <b> March 22 - Present   | </b>                    
+                    GitLab Hero  
+                </div>
+            </div>
+            <div className='community'>
+                <div>                    
+                    <b> March 22 - Present   | </b>                    
+                    HackClub Leader  
+                </div>
+            </div>
            
             <div className='community'>
                 <div>                    
