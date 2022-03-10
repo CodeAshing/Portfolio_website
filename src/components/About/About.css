@@ -1,8 +1,9 @@
 .set_text{
-    padding: 10px;
-    padding-top: 25px;
+    padding: 0px;
+    padding-top: 0px;
     font-size: 18px;
     font-weight: 300;
     letter-spacing: 1px;
     line-height: 24px;
+    margin-bottom: 40px;
 }

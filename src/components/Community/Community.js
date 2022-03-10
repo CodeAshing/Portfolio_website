@@ -7,59 +7,63 @@ const Community = () => {
         <>
         <h1 className='set'>
         Community Work 
-        <img alt='community' className="img" width='50' src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-256.png"/>
+        <img alt='community' className="img" width='50' src="img/Work.png"/>
     </h1>
-        <div className="exp">
-        <div className='community'>
+        <div className="expmain">
+        <div className='expboxe'>
                 <div>                    
-                    <b> March 22 - Present   | </b>                    
+                    <b> March 22 - Present   | </b>     <br></br>       <br></br>           
                     GitLab Hero  
                 </div>
             </div>
-            <div className='community'>
+            <div className='expboxe'>
                 <div>                    
-                    <b> March 22 - Present   | </b>                    
+                    <b> March 22 - Present   | </b>    <br></br>    <br></br>                  
                     HackClub Leader  
                 </div>
             </div>
            
-            <div className='community'>
+            <div className='expboxe'>
                 <div>                    
-                    <b> Feb 22 - Present   | </b>                    
+                    <b> Feb 22 - Present   | </b>     <br></br>       <br></br>              
                     GitKraken Ambassador  
                 </div>
             </div>
-            <div className='community'>
+            <div className='expboxe'>
                 <div>                    
-                    <b> Jun 20 - Jun 21   | </b>                    
+                    <b> Jun 20 - Jun 21   | </b>        <br></br>       <br></br>           
                     Google Developer Student Club Lead  
                 </div>
             </div>
-            <div className='community'>
+            <div className='expboxe'>
                 <div>                    
-                    <b> Aug 21 - Jun 21   | </b>                    
+                    <b> Aug 21 - Jun 21   | </b>     <br></br>         <br></br>            
                     Microsoft Learn Student Ambassador (beta)  
                 </div>
             </div>
-            <div className='community'>
+            <div className='expboxe'>
                 <div>                    
-                    <b> May 21 - Present 21   | </b>                    
+                    <b> May 21 - Present 21   | </b>       <br></br>          <br></br>         
                     Amazon Web Services Community Builder  
                 </div>
             </div>
             
-            <div className='community'>
+            <div className='expboxe'>
                 <div>                    
-                    <b> Jan 21 - Present   | </b>                    
+                    <b> Jan 21 - Present   | </b>       <br></br>          <br></br>         
                     Deeplearning.ai Ambassador  
                 </div>
             </div>
-            <div className='community'>
+            <div className='expboxe'>
                 <div>                    
-                    <b> Oct 20 - Nov 20   | </b>                    
+                    <b> Oct 20 - Nov 20   | </b>                 <br></br>       <br></br>  
                     Event Organizer at Major League Hacking  
                 </div>
             </div>
+            <br></br>  
+            <br></br>  
+            
+
         </div>
         </>
     )    

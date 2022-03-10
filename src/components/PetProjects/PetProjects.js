@@ -7,12 +7,12 @@ const PetProjects = () => {
         <div>
             <h1 className='set'>
                 Pet Projects
-                <img className="img" width='50' src="https://cdn3.iconfinder.com/data/icons/design-and-development-2-6/136/51-256.png"/>
+                <img className="img" width='50' src="img/Projects.png"/>
             </h1>
             
-            <div className='exp'>
+            <div className='expmain'>
 
-                <div>                    
+            <div className='expboxe'>                      
                     <b>Distant Speech Recognition | Dec 20  </b> 
                     <div className="para">
                         In this project we have implemented the 7 AI DL and ML (KNN, CNN, LSTM etc) 
@@ -23,7 +23,7 @@ const PetProjects = () => {
                     </div>
                 </div>
 
-                <div>                    
+                <div className='expboxe'>                     
                     <b>Mask Detection Model | Nov 20</b>                
                     <div className="para">
                         A real time Mask detection using SSD_Mobilenet v1which can detect mask in a frame. 
@@ -32,7 +32,7 @@ const PetProjects = () => {
                     </div>
                 </div>
 
-                <div>                    
+                <div className='expboxe'>                   
                     <b>Facial Expression | Nov 20  </b>                
                     <div className="para">
                         A CNN base model which can tell you the mood of theperson means how a person is feeling right now. 
@@ -42,7 +42,7 @@ const PetProjects = () => {
                 </div>
 
 
-                <div>                    
+                <div className='expboxe'>                   
                     <b>Image Noise Detection with Autoencoder | Nov 20 </b>                
                     <div className="para">
                         Enhance the Image quality by using autoencoder usingDense layers  by Tensorflow. 
@@ -52,7 +52,7 @@ const PetProjects = () => {
                 </div>
 
                 
-                <div>                    
+                <div className='expboxe'>                    
                     <b>Deepfake with keras | Oct 20 </b>                
                     <div className="para">
                     A DCGAN base model which is producing images of digit0 like MNIST dataset. 
@@ -61,7 +61,7 @@ const PetProjects = () => {
                     </div>
                 </div>
 
-                <div>                    
+                <div className='expboxe'>                    
                     <b>Optical Character Recognition | Oct 20 </b>                
                     <div className="para">
                         Real time OCR which converts images into text. 
@@ -70,7 +70,7 @@ const PetProjects = () => {
                     </div>
                 </div>
 
-                <div>                    
+                <div className='expboxe'>                     
                     <b>Smart Brain | Aug 20 </b>                
                     <div className="para">
                         A MERN stack base web application which recognizesa face of a human and creates a bounding box by
@@ -80,7 +80,7 @@ const PetProjects = () => {
                     </div>
                 </div>    
                 
-                <div>                    
+                <div className='expboxe'>                    
                     <b>Hotel Management System | Mar 20 </b>                
                     <div className="para">
                         A hotel management system based on .net frameworkwhich helps to record and manage all the activities
@@ -91,6 +91,7 @@ const PetProjects = () => {
                 </div>
 
             </div>
+            <br></br>  
         </div>
     )    
 }

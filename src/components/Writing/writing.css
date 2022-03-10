@@ -1,9 +1,17 @@
 .set{
-    margin-bottom: 0%;
-    font-size: 43px;
-    padding-top: 25px;
-    text-transform: uppercase;
-    border-bottom: 1px solid #ffffff1f;
+    font-size: 34px;
+    text-transform: capitalize;
+    font-family: 'Exo',sans-serif;
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    background: #ffffff17;
+    margin: 0;
+    padding: 10px 20px;
+    border-left: 10px solid #dba808;
+    margin-bottom: 10px;
 }
 .write{
     margin: 10px;

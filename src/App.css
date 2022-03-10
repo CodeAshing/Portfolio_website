@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 body {
   margin: 0;
@@ -10,4 +11,36 @@ body {
   line-height: 1.15;
   color: white;
   padding: 1vw 10vw;
+}
+
+@media only screen and (max-width: 480px) {
+
+  .mainsection {
+    grid-template-columns: 100% !important;
+    padding: 10px 0px 10px 0px !important;
+}
+
+.expmain {
+  grid-template-columns: 100% !important;
+  grid-gap: 0% !important;
+    gap: 0% !important;
+}
+
+
+.set {
+    font-size: 18px !important;
+   
+}
+.icons img {
+  width: 26px !important;
+  height: 26px !important;
+}
+.icons {
+  padding: 0px !important;
+  margin: 4px 0px 20px 0px !important;
+}
+
+
+
+
 }
