@@ -3,7 +3,7 @@ import './About.css'
 const About=() => {
     return(
         <div className='set_text'>
-            I'm 21, currently pursuing bachelors from Sindh Madressatul Islam University focus on 
+            Currently pursuing bachelors from Sindh Madressatul Islam University focus on 
             computer science. I'm tech enthusiast, I love to learn about new emerging technologies 
             like Artificial Intelligence, Quantum Computing, etc. I did couple of internships in 
             Data Science and Artificial Intelligence field. Currently working as a AI developer @Alcodemist 
@@ -12,8 +12,7 @@ const About=() => {
             Student Ambassador, Amazon Web Services Community Builder, and having ambassadorship in many 
             other communities. Apart from this Computer Science I love to learn about cosmology, 
             physic, neuroscience and Aboutlogy. I love to travel a lot and explore new places. I 
-            also used to read historical book in English or Urdu language. I'm crazy about Car racing 
-            too and my curiosities are paragliding, parkour, scuba diving any many  more
+            also used to read historical book in English or Urdu language.
         </div>
     )    
 }
