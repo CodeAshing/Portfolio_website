@@ -1,19 +1,23 @@
 import React from 'react'
 import './About.css'
-const About=() => {
-    return(
+const About = () => {
+    return (
         <div className='set_text'>
-            Currently pursuing bachelors from Sindh Madressatul Islam University focus on 
-            computer science. I'm tech enthusiast, I love to learn about new emerging technologies 
-            like Artificial Intelligence, Quantum Computing, etc. I did couple of internships in 
-            Data Science and Artificial Intelligence field. Currently working as a AI developer @Alcodemist 
-            and working on my 2 research papers based on Natural Linguistics. I'm also quite 
-            active in students communities like I'm Google Developer Student Club Lead, Microsoft Learn 
-            Student Ambassador, Amazon Web Services Community Builder, and having ambassadorship in many 
-            other communities. Apart from this Computer Science I love to learn about cosmology, 
-            physic, neuroscience and Aboutlogy. I love to travel a lot and explore new places. I 
-            also used to read historical book in English or Urdu language.
+            I am pursuing a bachelor's from SMIU focusing on computer science and having 2 years of experience as a working professional with a keen interest in Artificial Intelligence, Data Sciences, Backend Engineering, Infrastructure Engineering, DevOps, and Large Scale Distributed Systems. My obsession is learning about emerging technologies like Quantum Computing, and metaverse, and learning about other domains like cosmology, and neurology.
+            <br />
+            <br />
+            I specialize in modern and widely-used technologies, such as:
+            <br />
+            ✔ Artificial Intelligence: Transformers, Attention, Language Modeling, Sklearn, Tensorflow & PyTorch in GANs, RNN, CNN, BERT;
+            <br /> ✔ Front-end Related Technologies: JS ES6+, HTML 5, CSS 3, SVG, Webpack, Babel, Eslint, d3.js;
+            <br />✔ Back-end: Node.js, Typescript, Flask, Django;
+            <br />✔ Back-end Technologies: REST APIs, WebSockets, Message Queues, GraphQL;
+            <br />✔ Version control: Git and Github;
+            <br />✔ Database technology and tools: MongoDB, MySQL, PostgreSQL, DynamoDB, Redis;
+            <br />✔ Cloud computing services: AWS, GCP;
+            <br />✔ DevOps: Docker, Kubernetes, Terraform, Github Actions, AWS DevOps, GitLab;
+            <br />✔ Realtime Systems: WebRTC, Sockets;
         </div>
-    )    
+    )
 }
 export default About
