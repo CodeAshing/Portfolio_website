@@ -5,132 +5,72 @@ const PetProjects = () => {
   return (
     <div>
       <h1 className="set">
-        Pet Projects
+        Projects
         <img className="img" width="50" src="img/Projects.png" />
       </h1>
 
-      <div className="expmain">
+      {/* <div className="expmain"> */}
+      <div className="">
         <div className="expboxe">
-          <b>Distant Speech Recognition | Dec 20 </b>
+          <b>Enterprise resource planning (ERP) </b>
           <div className="para">
-            In this project we have implemented the 7 AI DL and ML (KNN, CNN,
-            LSTM etc) model using assemblylearning to recognize the english word
-            from an audio.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/Speech_to_text"
-            >
-              Project
-            </a>
+            The Enterprise Resource Planning (ERP) project is a comprehensive system designed to manage the wholesale, payment, finance, expenses, and overall process of a real estate business. I was the lead developer on this project and was responsible for the following:
+
+            <br /><br /><b />✅ Developing the entire back-end system
+            <br /><b />✅ Designing the database architecture
+            <br /><b />✅ Managing the CI/CD pipeline
+            <br /><b />✅ Leading the front-end team for website and mobile development
+            <br /><b />✅ Training employees on how to use the system effectively
+            <br /><br /><b /> This project has been in development for over a year and is now ready to be implemented in the organization. The ERP system will streamline and automate various business processes, providing real-time visibility into key metrics and data, and improve overall efficiency and productivity. The project will ultimately help the real estate business to make better and informed decisions.
           </div>
         </div>
 
         <div className="expboxe">
-          <b>Mask Detection Model | Nov 20</b>
+          <b>Attendance Application (SAAS)</b>
           <div className="para">
-            A real time Mask detection using SSD_Mobilenet v1which can detect
-            mask in a frame.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/Mask_Detection"
-            >
-              Project
-            </a>
+            I have worked on a SAAS attendance system application that utilizes QR-based attendance marking and utilizes location data to validate the presence of a person on site.
+
+            <br /><br /><b />✅ Developed the backend of the SAAS attendance system using various technologies such as Node.js, Express, and MongoDB
+            <br /><b />✅ Implemented the business logic for the QR-based attendance marking and location validation functionality
+            <br /><b />✅ Designed and implemented the database architecture for storing and retrieving attendance records
+            <br /><b />✅ Conducted research to determine the best technologies for the project, including but not limited to face recognition and location services
+            <br /><b />✅ Managed the CI/CD pipeline using tools such as Jenkins and GitHub for continuous integration and deployment on VPC
+            <br /><b />✅ Responsible for testing and quality assurance of the application, including functional and non-functional testing
+            <br /><b />✅ Utilized face recognition technology for user login
+            <br /><b />✅ Implemented security measures such as encryption and access controls to protect sensitive data
+            <br /><b />✅ Monitored and maintained the application's performance and scalability.
           </div>
         </div>
 
         <div className="expboxe">
-          <b>Facial Expression | Nov 20 </b>
+          <b>Finance Portal</b>
           <div className="para">
-            A CNN base model which can tell you the mood of theperson means how
-            a person is feeling right now.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/Emotion-AI-Facial-Key-points-Detection"
-            >
-              Project
-            </a>
+            I have worked on a finance portal for managing the loan application process for real estate properties. My responsibilities included:
+
+            <br /><br /><b />✅ Developing the backend of the project using technologies such as Node.js, Express, and MongoDB
+            <br /><b />✅ Managing the CI/CD pipeline to ensure continuous integration and deployment
+            <br /><b />✅ Conducting research and development to determine the best technologies and solutions for the project
+            <br /><b />✅ Integrating the portal with a CRM system such as itrix and adding webhooks for seamless communication
+            <br /><b />✅ Implementing real-time functionality using web sockets for live updates
+            <br /><b />✅ Integrating push notifications using Firebase to keep users informed about the status of their loan applications
+            <br /><b />✅ Managing the project and ensuring its smooth operation and performance
+            <br /><br />The loan application process is a critical and complex process, the finance portal I worked on, streamline the process, improve communication and increase efficiency.
           </div>
         </div>
 
         <div className="expboxe">
-          <b>Image Noise Detection with Autoencoder | Nov 20 </b>
+          <b>Social Manager</b>
           <div className="para">
-            Enhance the Image quality by using autoencoder usingDense layers by
-            Tensorflow.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/Image-Noise-Reduction-with-Auto-encoders-using-TensorFlow"
-            >
-              Project
-            </a>
+            I have worked on a project called Social Manager, an application that allows users to post on multiple social media platforms with just one post. My responsibilities included:
+
+            <br /><br /><b />✅ Developing the backend of the project using technologies such as Node.js, Express and MongoDB
+            <br /><b />✅ Integrating APIs from popular social media platforms like Facebook, YouTube, Instagram, and LinkedIn
+            <br /><b />✅ Implementing functionality to upload images and videos to an S3 bucket
+            <br /><b />✅ Managing the project and ensuring its smooth operation and performance
+            <br /><br />Social Manager is a powerful tool for managing social media presence, with this application users can save time and effort by managing all their social media accounts in one place. The integration with multiple platforms, S3 bucket for media upload and the backend I developed make it a reliable and efficient application.
           </div>
         </div>
 
-        <div className="expboxe">
-          <b>Deepfake with keras | Oct 20 </b>
-          <div className="para">
-            A DCGAN base model which is producing images of digit0 like MNIST
-            dataset.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/Understanding_deepFake_with_Keras"
-            >
-              Project
-            </a>
-          </div>
-        </div>
-
-        <div className="expboxe">
-          <b>Optical Character Recognition | Oct 20 </b>
-          <div className="para">
-            Real time OCR which converts images into text.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/OCR"
-            >
-              Project
-            </a>
-          </div>
-        </div>
-
-        <div className="expboxe">
-          <b>Smart Brain | Aug 20 </b>
-          <div className="para">
-            A MERN stack base web application which recognizesa face of a human
-            and creates a bounding box by using Machine Learning algo using
-            RestFull Api’s.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/Face_Recognition_Brain"
-            >
-              Project
-            </a>
-          </div>
-        </div>
-
-        <div className="expboxe">
-          <b>Hotel Management System | Mar 20 </b>
-          <div className="para">
-            A hotel management system based on .net frameworkwhich helps to
-            record and manage all the activities of hotel management including
-            its kitchen.
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Asharib90/Hotel-Manegment-System"
-            >
-              Project
-            </a>
-          </div>
-        </div>
       </div>
       <br></br>
     </div>
