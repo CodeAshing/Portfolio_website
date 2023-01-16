@@ -56,3 +56,38 @@
     font-weight: 300;
     letter-spacing: 1px;
 }
+
+
+
+.accordion__item {
+    background: #121212;
+    border: 1px solid #393544;
+    font-family: "Exo",sans-serif;
+}
+
+.accordion__item p {
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 22px;
+    font-weight: 300;
+}
+
+.accordion__item ul {
+    list-style: none;
+}
+
+.accordion__item ul li {
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    font-weight: 300;
+}
+.accordion__button {
+    background-color: #262626 !important;
+    width: unset !important;
+    color: #dda62f !important;
+}
