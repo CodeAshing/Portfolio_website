@@ -21,7 +21,7 @@ const About = () => {
       🚀 Front-end: React.js, JS ES6+, HTML 5, CSS 3, SVG, Webpack, Babel,
       Eslint, d3.js.
       <br />
-      🚀 Back-end: Node.js, Express.js, Java, Spring Framework, Django, Flask,
+      🚀 Back-end: Node.js, Express.js, Django, Flask,
       TypeScript.
       <br />
       🚀 Back-end Technologies: REST APIs, WebSockets, Message Queues, GraphQL,
@@ -32,7 +32,7 @@ const About = () => {
       🚀 Databases: MongoDB, MySQL, PostgreSQL, DynamoDB, Redis, Cassandra,
       Bigtable.
       <br />
-      🚀 Cloud computing services: AWS, GCP, Azure.
+      🚀 Cloud computing services: AWS, GCP.
       <br />
       🚀 DevOps: Docker, Kubernetes, Terraform, Github Actions, AWS DevOps,
       GitLab, CircleCI, Jenkins.
