@@ -3,13 +3,12 @@ import "./About.css";
 const About = () => {
   return (
     <div className="set_text">
-      As a seasoned computer science professional with over 3 years of
-      experience, I am not just a specialist in Artificial Intelligence, Data
+      As a seasoned computer science professional, I'm not only experienced in Artificial Intelligence, Data
       Sciences, Backend Engineering, and DevOps, but also an innovator who is
       always on the lookout for the latest and greatest technologies and
       frameworks. I have a deep-seated passion for staying ahead of the curve
       and exploring the uncharted territories of emerging technologies such as
-      Quantum Computing, the metaverse, cosmology, and neurology.
+      Blockchain, Quantum Computing, the Metaverse, Cosmology, and Neurology.
       <br />
       <br />
       My skillset is a reflection of my constant drive to learn and adapt. I

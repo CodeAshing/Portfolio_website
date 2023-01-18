@@ -10,7 +10,7 @@ const Talk = () => {
       </h1>
       <div className="expmain">
         <div className="expboxe">
-          <b>Jan 2023 | </b>
+          <b>Jan 2023</b>
           <a
             className="link"
             target="_blank"
@@ -21,7 +21,7 @@ const Talk = () => {
         </div>
 
         <div className="expboxe">
-          <b>Jan 2023 | </b>
+          <b>Jan 2023</b>
           <a
             className="link"
             target="_blank"
@@ -32,7 +32,7 @@ const Talk = () => {
         </div>
 
         <div className="expboxe">
-          <b>Dec 2022 | </b>
+          <b>Dec 2022</b>
           <a
             className="link"
             target="_blank"
@@ -43,7 +43,7 @@ const Talk = () => {
         </div>
 
         <div className="expboxe">
-          <b>Nov 2022 | </b>
+          <b>Nov 2022</b>
           <a
             className="link"
             target="_blank"
@@ -54,7 +54,7 @@ const Talk = () => {
         </div>
 
         <div className="expboxe">
-          <b>Mar 2022 | </b>
+          <b>Mar 2022</b>
           <a
             className="link"
             target="_blank"
@@ -65,7 +65,7 @@ const Talk = () => {
         </div>
 
         <div className="expboxe">
-          <b>Feb 2022 | </b>
+          <b>Feb 2022</b>
           <a
             className="link"
             target="_blank"
@@ -75,7 +75,7 @@ const Talk = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>Nov 2021 | </b>
+          <b>Nov 2021</b>
           <a
             className="link"
             target="_blank"
@@ -85,7 +85,7 @@ const Talk = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>Oct 2021 | </b>
+          <b>Oct 2021</b>
           <a
             className="link"
             target="_blank"
@@ -95,7 +95,7 @@ const Talk = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>Sep 2021 | </b>
+          <b>Sep 2021</b>
           <a
             className="link"
             target="_blank"
@@ -105,7 +105,7 @@ const Talk = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>Jun 2021 | </b>
+          <b>Jun 2021</b>
           <a
             className="link"
             target="_blank"
@@ -115,7 +115,7 @@ const Talk = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>Oct 2020 | </b>
+          <b>Oct 2020</b>
           <a
             className="link"
             target="_blank"

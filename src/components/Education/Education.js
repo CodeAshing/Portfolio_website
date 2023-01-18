@@ -16,14 +16,14 @@ const Education = () => {
       </h1>
       <div className="expmain">
         <div className="expboxe">
-          <b>Pursuing |</b>
+          <b>Pursuing</b>
           <div className="para">
             Quantum Computing Diploma from The Coding School
           </div>
         </div>
 
         <div className="expboxe">
-          <b>Completed |</b>
+          <b>Completed</b>
           <div className="para">
             Bachelors of computer science from Sindh Madressatul Islam
             University.
@@ -31,14 +31,14 @@ const Education = () => {
         </div>
 
         <div className="expboxe">
-          <b>Completed |</b>
+          <b>Completed</b>
           <div className="para">
             Fellowship from Global Citizen Year (Academy)
           </div>
         </div>
 
         <div className="expboxe">
-          <b>Completed |</b>
+          <b>Completed</b>
           <div className="para">
             Artificial Intelligence diploma from Presidential Initiative for
             Artificial Intelligence& Computing
@@ -46,7 +46,7 @@ const Education = () => {
         </div>
 
         <div className="expboxe">
-          <b>Completed |</b>
+          <b>Completed</b>
           <div className="para">
             Intermediate from Fazaia Intermediate College
           </div>

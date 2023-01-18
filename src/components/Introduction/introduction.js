@@ -11,6 +11,7 @@ const Introduction = () => {
 
       <div>
         <h1 className="heading">Asharib Ahmed</h1>
+        <h3>(Backend Dev)</h3>
         <div className="lines">
           Data Scientist @ Star Marketing | Campus Expert @Github | Former DSC
           Lead at Google Developers | β Microsoft Learn Student Ambassador |
@@ -79,7 +80,7 @@ const Introduction = () => {
           </a>
 
           <a
-            href="https://bit.ly/asharibResume"
+            href="https://drive.google.com/file/d/18K-pn7xNYwTIoPU8p39cdar4RU5LbFrm/view?usp=sharing"
             target="_blank"
             className="icon"
           >

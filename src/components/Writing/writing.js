@@ -11,7 +11,7 @@ const Writing = () => {
       </h1>
       <div className="expmain">
         <div className="expboxe">
-          <b>Sep 2022 | </b>
+          <b>Sep 2022</b>
           <a
             className="link"
             target="_blank"
@@ -21,7 +21,7 @@ const Writing = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>March 2022 | </b>
+          <b>March 2022</b>
           <a
             className="link"
             target="_blank"
@@ -31,7 +31,7 @@ const Writing = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>March 2022 | </b>
+          <b>March 2022</b>
           <a
             className="link"
             target="_blank"
@@ -41,7 +41,7 @@ const Writing = () => {
           </a>
         </div>
         <div className="expboxe">
-          <b>March 2021 | </b>
+          <b>March 2021</b>
           <a
             className="link"
             target="_blank"
