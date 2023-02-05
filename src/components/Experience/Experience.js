@@ -42,16 +42,13 @@ export default function Experience() {
               <li><span>✅</span>Provide technical leadership to teammates through coaching and mentorship.</li>
               <li><span>✅</span>Maintain high standards of software quality within the team by establishing good practices and habits.</li>
               <li><span>✅</span>Identify and encourage areas for growth and improvement within the team.</li>
-              <li><span>✅</span>Collaborate with other software developers, business analysts and software architects to plan, design, develop, test, and maintain web- and desktop-based business applications built on Microsoft technologies.</li>
-              <li><span>✅</span>Assist in the collection and documentation of user's requirements, development of user stories,
-                estimates and work plans</li>
-              <li><span>✅</span>Prepare reports, manuals and other documentation on the status, operation and maintenance of
-                software.</li>
+              <li><span>✅</span>Assist in the collection and documentation of user's requirements, development of user stories, estimates and work plans</li>
+              <li><span>✅</span>Prepare reports, manuals and other documentation on the status, operation and maintenance of software.</li>
               <li><span>✅</span>Design, develop, and unit test applications in accordance with established standards.</li>
               <li><span>✅</span>Develop, refine, and tune integrations between applications.</li>
-              <li><span>✅</span></li>
-              <li><span>✅</span></li>
-              <li><span>✅</span></li>
+              <li><span>✅</span>Analyze and resolve technical and application problems.</li>
+              <li><span>✅</span>Assess opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties.</li>
+              <li><span>✅</span>Adhere to high-quality development principles while delivering solutions on-time and on-budget.</li>
             </ul>
           </AccordionItemPanel>
         </AccordionItem>
