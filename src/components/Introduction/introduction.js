@@ -13,7 +13,7 @@ const Introduction = () => {
         <h1 className="heading">Asharib Ahmed</h1>
         <h3>(Backend Dev)</h3>
         <div className="lines">
-          Data Scientist @ Star Marketing | Campus Expert @Github | Former DSC
+          Ass Team Lead @ Star Marketing | Campus Expert @Github | Former DSC
           Lead at Google Developers | β Microsoft Learn Student Ambassador |
           GitKraken Ambassador | Ambassador @ Deeplearning.ai | AWS Community
           Builder | AI Enthusiast | MERN Stack | Learner

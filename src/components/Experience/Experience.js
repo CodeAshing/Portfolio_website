@@ -28,10 +28,38 @@ export default function Experience() {
       </h1>
 
       <Accordion>
+
         <AccordionItem expanded={expanded === 'panel1'} onChange={handleChange('panel1')}>
           <AccordionItemHeading aria-controls="panel1d-content" id="panel1d-header">
             <AccordionItemButton>
-              Data Scientist @Star Marketing | Oct 21 - Present
+              Assistant Team Lead @Star Marketing | Jan 23 - Present
+            </AccordionItemButton>
+          </AccordionItemHeading>
+          <AccordionItemPanel>
+            <p>As an Assitant Team Lead role at Star Marketing where my primary responsibilities include:</p>
+            <ul>
+              <li><span>✅</span>Guide team development efforts towards successful project delivery.</li>
+              <li><span>✅</span>Provide technical leadership to teammates through coaching and mentorship.</li>
+              <li><span>✅</span>Maintain high standards of software quality within the team by establishing good practices and habits.</li>
+              <li><span>✅</span>Identify and encourage areas for growth and improvement within the team.</li>
+              <li><span>✅</span>Collaborate with other software developers, business analysts and software architects to plan, design, develop, test, and maintain web- and desktop-based business applications built on Microsoft technologies.</li>
+              <li><span>✅</span>Assist in the collection and documentation of user's requirements, development of user stories,
+                estimates and work plans</li>
+              <li><span>✅</span>Prepare reports, manuals and other documentation on the status, operation and maintenance of
+                software.</li>
+              <li><span>✅</span>Design, develop, and unit test applications in accordance with established standards.</li>
+              <li><span>✅</span>Develop, refine, and tune integrations between applications.</li>
+              <li><span>✅</span></li>
+              <li><span>✅</span></li>
+              <li><span>✅</span></li>
+            </ul>
+          </AccordionItemPanel>
+        </AccordionItem>
+
+        <AccordionItem expanded={expanded === 'panel1'} onChange={handleChange('panel1')}>
+          <AccordionItemHeading aria-controls="panel1d-content" id="panel1d-header">
+            <AccordionItemButton>
+              Data Scientist @Star Marketing | Oct 21 - Dec 22
             </AccordionItemButton>
           </AccordionItemHeading>
           <AccordionItemPanel>
@@ -44,11 +72,11 @@ export default function Experience() {
               <li><span>✅</span> Managing and optimizing the performance of the databases and recommending best practices to improve the scalability of the system.</li>
               <li><span>✅</span> Utilizing Git for version control and collaboration with team members.</li>
               <li><span>✅</span>Writing and executing integration and unit tests to ensure the quality of the code and product.</li>
-              <li><span>✅</span></li>
             </ul>
             <p>Throughout my tenure, I have had the opportunity to work with cutting-edge technologies like deep learning, facial recognition and AWS services, which helped me to improve my problem-solving, analytical, and technical skills. Additionally, I had the chance to work with a team of talented engineers, which helped me to improve my teamwork and communication skills. I am excited to continue working in the field of data science and hope to bring my skills to future projects.</p>
           </AccordionItemPanel>
         </AccordionItem>
+
         <AccordionItem expanded={expanded === 'panel2'} onChange={handleChange('panel1')}>
           <AccordionItemHeading aria-controls="panel2d-content" id="panel2d-header">
             <AccordionItemButton>
@@ -108,7 +136,6 @@ export default function Experience() {
               <li><span>✅</span> Utilizing NLP techniques to extract and process text from cheques</li>
               <li><span>✅</span>Optimizing the performance of the models and fine-tuning the parameters to improve accuracy. </li>
               <li><span>✅</span> Participated in code reviews and collaborated with peers to ensure high-quality code.</li>
-              <li><span>✅</span> </li>
             </ul>
             <p>I had the opportunity to work with cutting-edge technologies like deep learning, computer vision and NLP, which helped me to improve my problem-solving, analytical, and technical skills. Additionally, I had the chance to work with a team of passionate and talented engineers, which helped me to improve my teamwork and communication skills. I am excited to continue working in the field of Artificial Intelligence and hope to bring my skills to future projects.</p>
           </AccordionItemPanel>
