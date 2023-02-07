@@ -10,6 +10,8 @@
 }
 .link{
     padding-left: 5px;
+    color: #ffffffa6;
+    text-decoration: none;
 }
 .img{
     padding-left: 10px;
@@ -20,14 +22,16 @@
 .accordion__item {
     background: #121212;
     border: 1px solid #393544;
-    font-family: "Exo",sans-serif;
+    font-family: 'Federo', sans-serif !important;
+    border-bottom: 1px solid #ffffff57;
 }
 
 .accordion__item p {
-    font-size: 14px;
-    letter-spacing: 0.5px;
+    font-size: 16px;
     line-height: 22px;
     font-weight: 300;
+    letter-spacing: 0;
+    color: #ffffffb8;
 }
 
 .accordion__item ul {
@@ -35,12 +39,13 @@
 }
 
 .accordion__item ul li {
-    font-size: 14px;
-    letter-spacing: 1px;
+    font-size: 16px;
+    letter-spacing: 0px;
     margin-bottom: 10px;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+    color: #ffffffb8;
     gap: 10px;
     font-weight: 300;
 }

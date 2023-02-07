@@ -5,19 +5,8 @@ import me from "./me.jpg";
 const Introduction = () => {
   return (
     <div className="mainsection">
-      <div>
+      <div className="ashribimg">
         <img className="photo" alt="image" src={me}></img>
-      </div>
-
-      <div>
-        <h1 className="heading">Asharib Ahmed</h1>
-        <h3>(Backend Dev)</h3>
-        <div className="lines">
-          Ass Team Lead @ Star Marketing | Campus Expert @Github | Former DSC
-          Lead at Google Developers | β Microsoft Learn Student Ambassador |
-          GitKraken Ambassador | Ambassador @ Deeplearning.ai | AWS Community
-          Builder | AI Enthusiast | MERN Stack | Learner
-        </div>
         <div className="icons">
           <a
             href="https://www.linkedin.com/in/itsasharib"
@@ -90,6 +79,19 @@ const Introduction = () => {
               width="50px"
             />
           </a>
+        </div>
+      </div>
+
+      <div>
+        <h1 className="heading">Asharib Ahmed</h1>
+        <h3 className="Backend">(Backend Developer)</h3>
+      
+      
+        <div className="lines">
+          Ass Team Lead @ Star Marketing | Campus Expert @Github | Former DSC
+          Lead at Google Developers | β Microsoft Learn Student Ambassador |
+          GitKraken Ambassador | Ambassador @ Deeplearning.ai | AWS Community
+          Builder | AI Enthusiast | MERN Stack | Learner
         </div>
       </div>
     </div>

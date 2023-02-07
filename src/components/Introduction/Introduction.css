@@ -20,8 +20,7 @@
 }
 .lines{
     padding: 10px 0px;
-    font-size: 18px;
-    letter-spacing: 2px;
+    font-size: 16px;
     line-height: 26px;
 }
 .photo {
@@ -37,11 +36,18 @@
 }
 .mainsection {
     display: grid;
-    grid-template-columns: 30% 67%;
+    grid-template-columns: 25% 75%;
     justify-content: center;
     align-items: center;
+    grid-gap: 3%;
     gap: 3%;
-    padding: 0px 0px 10px 0px;
+    padding: 0px 0px 50px 0px;
+}
+.ashribimg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 h1.heading {
@@ -49,4 +55,11 @@ h1.heading {
     padding: 0;
     font-size: 40px;
     letter-spacing: 1px;
+    font-family: 'Federo', sans-serif !important;
+}
+h3 {
+    font-family: 'Federo', sans-serif !important;
+    margin: 0;
+    font-size: 20px;
+    color: #f4bd34;
 }
