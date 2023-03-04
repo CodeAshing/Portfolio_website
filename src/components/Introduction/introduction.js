@@ -1,12 +1,11 @@
 import React from "react";
 import "./Introduction.css";
-import me from "./me.jpg";
 
 const Introduction = () => {
   return (
     <div className="mainsection">
       <div className="ashribimg">
-        <img className="photo" alt="image" src={me}></img>
+        <img className="photo" alt="image" src="media/me.png"></img>
         <div className="icons">
           <a
             href="https://www.linkedin.com/in/itsasharib"
@@ -69,7 +68,7 @@ const Introduction = () => {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/18K-pn7xNYwTIoPU8p39cdar4RU5LbFrm/view?usp=sharing"
+            href="media/asharibResume.pdf"
             target="_blank"
             className="icon"
           >
@@ -84,14 +83,11 @@ const Introduction = () => {
 
       <div>
         <h1 className="heading">Asharib Ahmed</h1>
-        <h3 className="Backend">(Backend Developer)</h3>
-      
-      
+        <h3 className="Backend">(Software Engineer)</h3>
+
+
         <div className="lines">
-          Ass Team Lead @ Star Marketing | Campus Expert @Github | Former DSC
-          Lead at Google Developers | β Microsoft Learn Student Ambassador |
-          GitKraken Ambassador | Ambassador @ Deeplearning.ai | AWS Community
-          Builder | AI Enthusiast | MERN Stack | Learner
+          Asst Team Lead @ Star Marketing | Campus Expert @Github | Community Builder @AWS
         </div>
       </div>
     </div>

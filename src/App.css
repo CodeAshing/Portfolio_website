@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Federo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=system-ui&display=swap');
 
 
 body {
   margin: 0;
-  font-family: 'Federo', sans-serif !important;
+  font-family: 'system-ui', sans-serif !important;
 
 }
 .App {

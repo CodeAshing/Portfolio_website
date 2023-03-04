@@ -50,7 +50,7 @@
 .expboxe b {  
     font-weight: 500;
     font-size: 18px;
-    color: #e9bc45;}
+    color: #09b0cc;}
 
 .expboxe .para {
     text-align: left;
@@ -66,7 +66,7 @@
 .accordion__item {
     background: #121212;
     border: 1px solid #393544;
-    font-family: "Exo",sans-serif;
+    font-family: "system-ui",sans-serif;
 }
 
 .accordion__item p {
@@ -81,7 +81,7 @@
 }
 
 .accordion__item ul li {
-    font-size: 14px;
+    font-size: 16x;
     letter-spacing: 1px;
     margin-bottom: 10px;
     display: flex;
@@ -93,5 +93,5 @@
 .accordion__button {
     background-color: #262626 !important;
     width: unset !important;
-    color: #dda62f !important;
+    color: #09b0cc !important;
 }

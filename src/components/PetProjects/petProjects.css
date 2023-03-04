@@ -22,7 +22,7 @@
 .accordion__item {
     background: #121212;
     border: 1px solid #393544;
-    font-family: 'Federo', sans-serif !important;
+    font-family: 'system-ui', sans-serif !important;
     border-bottom: 1px solid #ffffff57;
 }
 
@@ -52,5 +52,5 @@
 .accordion__button {
     background-color: #262626 !important;
     width: unset !important;
-    color: #dda62f !important;
+    color: #09b0cc !important;
 }

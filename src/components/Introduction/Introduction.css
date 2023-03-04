@@ -20,7 +20,7 @@
 }
 .lines{
     padding: 10px 0px;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 26px;
 }
 .photo {
@@ -55,11 +55,11 @@ h1.heading {
     padding: 0;
     font-size: 40px;
     letter-spacing: 1px;
-    font-family: 'Federo', sans-serif !important;
+    font-family: 'system-ui', sans-serif !important;
 }
 h3 {
-    font-family: 'Federo', sans-serif !important;
+    font-family: 'system-ui', sans-serif !important;
     margin: 0;
     font-size: 20px;
-    color: #f4bd34;
+    color: #00859b;
 }

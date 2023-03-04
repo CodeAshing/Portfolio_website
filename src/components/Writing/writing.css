@@ -1,7 +1,7 @@
 .set{
     font-size: 34px;
     text-transform: capitalize;
-    font-family: 'Federo', sans-serif !important;
+    font-family: 'system-ui', sans-serif !important;
     font-weight: 500;
     display: flex;
     justify-content: flex-start;

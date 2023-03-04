@@ -38,17 +38,17 @@ export default function Experience() {
           <AccordionItemPanel>
             <p>As an Assitant Team Lead role at Star Marketing where my primary responsibilities include:</p>
             <ul>
-              <li><span>✅</span>Guide team development efforts towards successful project delivery.</li>
-              <li><span>✅</span>Provide technical leadership to teammates through coaching and mentorship.</li>
-              <li><span>✅</span>Maintain high standards of software quality within the team by establishing good practices and habits.</li>
-              <li><span>✅</span>Identify and encourage areas for growth and improvement within the team.</li>
-              <li><span>✅</span>Assist in the collection and documentation of user's requirements, development of user stories, estimates and work plans</li>
-              <li><span>✅</span>Prepare reports, manuals and other documentation on the status, operation and maintenance of software.</li>
-              <li><span>✅</span>Design, develop, and unit test applications in accordance with established standards.</li>
-              <li><span>✅</span>Develop, refine, and tune integrations between applications.</li>
-              <li><span>✅</span>Analyze and resolve technical and application problems.</li>
-              <li><span>✅</span>Assess opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties.</li>
-              <li><span>✅</span>Adhere to high-quality development principles while delivering solutions on-time and on-budget.</li>
+              <li><span>🚩</span>Guide team development efforts towards successful project delivery.</li>
+              <li><span>🚩</span>Provide technical leadership to teammates through coaching and mentorship.</li>
+              <li><span>🚩</span>Maintain high standards of software quality within the team by establishing good practices and habits.</li>
+              <li><span>🚩</span>Identify and encourage areas for growth and improvement within the team.</li>
+              <li><span>🚩</span>Assist in the collection and documentation of user's requirements, development of user stories, estimates and work plans</li>
+              <li><span>🚩</span>Prepare reports, manuals and other documentation on the status, operation and maintenance of software.</li>
+              <li><span>🚩</span>Design, develop, and unit test applications in accordance with established standards.</li>
+              <li><span>🚩</span>Develop, refine, and tune integrations between applications.</li>
+              <li><span>🚩</span>Analyze and resolve technical and application problems.</li>
+              <li><span>🚩</span>Assess opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties.</li>
+              <li><span>🚩</span>Adhere to high-quality development principles while delivering solutions on-time and on-budget.</li>
             </ul>
           </AccordionItemPanel>
         </AccordionItem>
@@ -56,22 +56,25 @@ export default function Experience() {
         <AccordionItem expanded={expanded === 'panel1'} onChange={handleChange('panel1')}>
           <AccordionItemHeading aria-controls="panel1d-content" id="panel1d-header">
             <AccordionItemButton>
-              Data Scientist @Star Marketing | Oct 21 - Dec 22
+              Software Engineer @Star Marketing | Oct 21 - Dec 22
             </AccordionItemButton>
           </AccordionItemHeading>
           <AccordionItemPanel>
-            <p>As a Data Science role at Star Marketing where my primary responsibilities include:</p>
+            <p>As a Software Engineer role at Star Marketing where my primary responsibilities include:</p>
             <ul>
-              <li><span>✅</span>Developing a recommendation engine using deep learning technologies to improve customer engagement and product sales.</li>
-              <li><span>✅</span>Implementing facial recognition in all products to improve user experience and increase security.</li>
-              <li><span>✅</span>Working with back-end development, designing architecture of databases with SQL and NoSQL, as well as serverless and graph databases.</li>
-              <li><span>✅</span> Leading the development of an end-to-end SAAS Attendance application, which includes managing the CI/CD pipeline, deploying the application on AWS cloud, and utilizing various AWS services such as facial recognition and SNS.</li>
-              <li><span>✅</span> Managing and optimizing the performance of the databases and recommending best practices to improve the scalability of the system.</li>
-              <li><span>✅</span> Utilizing Git for version control and collaboration with team members.</li>
-              <li><span>✅</span>Writing and executing integration and unit tests to ensure the quality of the code and product.</li>
-            </ul>
-            <p>Throughout my tenure, I have had the opportunity to work with cutting-edge technologies like deep learning, facial recognition and AWS services, which helped me to improve my problem-solving, analytical, and technical skills. Additionally, I had the chance to work with a team of talented engineers, which helped me to improve my teamwork and communication skills. I am excited to continue working in the field of data science and hope to bring my skills to future projects.</p>
-          </AccordionItemPanel>
+              <li><span>🚩</span> Develop and implement new features to enhance the customer experience and ensure the delivery of best-in-class solutions.</li>
+              <li><span>🚩</span> Take ownership of the production operation and monitoring of systems related to the team's charter, ensuring adherence to SLAs, reliability, and scalability.</li>
+              <li><span>🚩</span> Collaborate closely with partners in design, product, ops, program management, and engineering to deliver high-quality solutions and document technical recommendations.</li>
+              <li><span>🚩</span> Mentor and guide junior members of the engineering team in areas related to technical and professional growth.</li>
+              <li><span>🚩</span> Participate in code reviews and engineering best practices, providing feedback to peers as necessary.</li>
+              <li><span>🚩</span> Ensure compliance with security standards and best practices in all development work.</li>
+              <li><span>🚩</span> Build, test, and deploy applications in high-traffic production environments.</li>
+              <li><span>🚩</span> Use your experience in backend software development with Javascript and Node.js to build reliable and scalable systems.</li>
+              <li><span>🚩</span> Use your experience to improve the reliability and scalability of technical systems.</li>
+              <li><span>🚩</span> Build effective partnerships with a diverse group of cross-functional peers, contributing to technical outcomes.</li>
+              <li><span>🚩</span> Use thoughtfulness and empathy to understand challenges faced by partners and work collaboratively to solve problems for the business.</li>
+              <li><span>🚩</span> Have a proven track record of designing, building, and supporting reliable systems in production.</li>
+            </ul></AccordionItemPanel>
         </AccordionItem>
 
         <AccordionItem expanded={expanded === 'panel2'} onChange={handleChange('panel1')}>
@@ -84,13 +87,13 @@ export default function Experience() {
             <p>I had the opportunity to work with a team of developers to build an AI-based architecture for automating the recruitment process. Our goal was to create a system that could take in hundreds of CVs and shortlist the most relevant candidates for a given job.</p>
             <p><b>My role and responsibilities included:</b></p>
             <ul>
-              <li><span>✅</span>Assisted in the development of an AI-based architecture for the recruitment system</li>
-              <li><span>✅</span>Worked with a team to implement natural language processing (NLP) techniques to extract relevant information from CVs</li>
-              <li><span>✅</span>Utilized machine learning algorithms to analyze and rank candidates based on their qualifications and experience</li>
-              <li><span>✅</span>Worked with Python and TensorFlow to develop and train the AI models</li>
-              <li><span>✅</span>Utilized Git for version control and collaboration with team members</li>
-              <li><span>✅</span>Assisted in the implementation and testing of the system, and worked with the team to optimize its performance</li>
-              <li><span>✅</span> Communicated progress and results to the management and stakeholders</li>
+              <li><span>🚩</span>Assisted in the development of an AI-based architecture for the recruitment system</li>
+              <li><span>🚩</span>Worked with a team to implement natural language processing (NLP) techniques to extract relevant information from CVs</li>
+              <li><span>🚩</span>Utilized machine learning algorithms to analyze and rank candidates based on their qualifications and experience</li>
+              <li><span>🚩</span>Worked with Python and TensorFlow to develop and train the AI models</li>
+              <li><span>🚩</span>Utilized Git for version control and collaboration with team members</li>
+              <li><span>🚩</span>Assisted in the implementation and testing of the system, and worked with the team to optimize its performance</li>
+              <li><span>🚩</span> Communicated progress and results to the management and stakeholders</li>
             </ul>
             <p>This internship was a great opportunity for me to gain experience in building AI-based systems and working with a team to solve real-world problems. I am excited to continue working in the field of AI and hope to bring my skills to future projects.</p>
           </AccordionItemPanel>
@@ -105,15 +108,15 @@ export default function Experience() {
             <p>I had the opportunity to work with a team of developers to build an AI-based architecture for automating the recruitment process. Our goal was to create a system that could take in hundreds of CVs and shortlist the most relevant candidates for a given job.</p>
             <p><b>My role and responsibilities included:</b></p>
             <ul>
-              <li><span>✅</span> Led a team of two developers in building a Google Home-type speech recognition project</li>
-              <li><span>✅</span>Utilized over 10 AI-based models working in parallel to produce a better result than Google Home</li>
-              <li><span>✅</span>Developed and implemented a project plan to ensure the project was completed on time and within budget</li>
-              <li><span>✅</span>Collaborated with team members to identify and solve any technical issues that arose during the development process</li>
-              <li><span>✅</span> Developed and trained AI-based models using TensorFlow and PythonUtilized Google Cloud Platform and AWS to deploy the models and run tests on the system</li>
-              <li><span>✅</span>Worked with team members to improve the overall performance and accuracy of the speech recognition system.</li>
-              <li><span>✅</span>Communicated progress and results to the management and stakeholders</li>
-              <li><span>✅</span> Utilized Git for version control and collaboration with team members</li>
-              <li><span>✅</span> Worked with natural language processing (NLP) techniques to improve the system's understanding of spoken language.</li>
+              <li><span>🚩</span> Led a team of two developers in building a Google Home-type speech recognition project</li>
+              <li><span>🚩</span>Utilized over 10 AI-based models working in parallel to produce a better result than Google Home</li>
+              <li><span>🚩</span>Developed and implemented a project plan to ensure the project was completed on time and within budget</li>
+              <li><span>🚩</span>Collaborated with team members to identify and solve any technical issues that arose during the development process</li>
+              <li><span>🚩</span> Developed and trained AI-based models using TensorFlow and PythonUtilized Google Cloud Platform and AWS to deploy the models and run tests on the system</li>
+              <li><span>🚩</span>Worked with team members to improve the overall performance and accuracy of the speech recognition system.</li>
+              <li><span>🚩</span>Communicated progress and results to the management and stakeholders</li>
+              <li><span>🚩</span> Utilized Git for version control and collaboration with team members</li>
+              <li><span>🚩</span> Worked with natural language processing (NLP) techniques to improve the system's understanding of spoken language.</li>
             </ul>
             <p>This internship was a great opportunity for me to gain experience in building AI-based systems and working with a team to solve real-world problems. I am excited to continue working in the field of AI and hope to bring my skills to future projects.</p>
           </AccordionItemPanel>
@@ -128,11 +131,11 @@ export default function Experience() {
           <AccordionItemPanel>
             <p>As an Artificial Intelligence Engineer at AlCodemist, a startup founded by my friend, where I had the opportunity to work with a passionate team of over 10 people. My primary responsibilities included:</p>
             <ul>
-              <li><span>✅</span>Developing a Cheque Verification product using a deep neural network (DNN) pretrained model with Keras to check the validity of a given cheque. </li>
-              <li><span>✅</span> Building a real-time mask detection model using DNN and other computer vision techniques.</li>
-              <li><span>✅</span> Utilizing NLP techniques to extract and process text from cheques</li>
-              <li><span>✅</span>Optimizing the performance of the models and fine-tuning the parameters to improve accuracy. </li>
-              <li><span>✅</span> Participated in code reviews and collaborated with peers to ensure high-quality code.</li>
+              <li><span>🚩</span>Developing a Cheque Verification product using a deep neural network (DNN) pretrained model with Keras to check the validity of a given cheque. </li>
+              <li><span>🚩</span> Building a real-time mask detection model using DNN and other computer vision techniques.</li>
+              <li><span>🚩</span> Utilizing NLP techniques to extract and process text from cheques</li>
+              <li><span>🚩</span>Optimizing the performance of the models and fine-tuning the parameters to improve accuracy. </li>
+              <li><span>🚩</span> Participated in code reviews and collaborated with peers to ensure high-quality code.</li>
             </ul>
             <p>I had the opportunity to work with cutting-edge technologies like deep learning, computer vision and NLP, which helped me to improve my problem-solving, analytical, and technical skills. Additionally, I had the chance to work with a team of passionate and talented engineers, which helped me to improve my teamwork and communication skills. I am excited to continue working in the field of Artificial Intelligence and hope to bring my skills to future projects.</p>
           </AccordionItemPanel>

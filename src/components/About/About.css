@@ -1,10 +1,10 @@
 
 h1 {
-    font-family: 'Federo', sans-serif !important;
-    color: #f4bd34;
+    font-family: 'system-ui', sans-serif !important;
+    color: #00859b;
 }
 .set_text p {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 26px;
     letter-spacing: 0;
     color: #ffffffb8;
@@ -15,7 +15,7 @@ h1 {
 }
 
 .set_text ul li {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 10px;
     color: #ffffffb8;
 }
