@@ -10,6 +10,19 @@ const Writing = () => {
         <img alt="writing" className="img" width="50" src="img/Writing.png" />
       </h1>
       <div className="expmain">
+
+
+        <div className="expboxe">
+          <b>Jan 2023</b>
+          <a
+            className="link"
+            target="_blank"
+            href="https://www.researchgate.net/publication/365298197_A_survey_on_electronic_natural_language_applications_a_current_challenges_and_limitations"
+          >
+            A Survey on Electronic Natural Language Applications: Current Challenges and Limitations{" "}
+          </a>
+        </div>
+
         <div className="expboxe">
           <b>Sep 2022</b>
           <a
@@ -20,6 +33,7 @@ const Writing = () => {
             Building Server-Side Applications with Bun - JavaScript Runtime{" "}
           </a>
         </div>
+
         <div className="expboxe">
           <b>March 2022</b>
           <a
