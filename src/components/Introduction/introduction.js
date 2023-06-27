@@ -8,7 +8,7 @@ const Introduction = () => {
         <img className="photo" alt="image" src="media/me.png"></img>
         <div className="icons">
           <a
-            href="https://www.linkedin.com/in/itsasharib"
+            href="https://www.linkedin.com/in/codeashing"
             target="_blank"
             className="f_icon"
           >
@@ -20,7 +20,7 @@ const Introduction = () => {
           </a>
 
           <a
-            href="https://twitter.com/asharib90"
+            href="https://twitter.com/codeashing"
             target="_blank"
             className="icon"
           >
@@ -32,7 +32,7 @@ const Introduction = () => {
           </a>
 
           <a
-            href="https://asharib.medium.com/"
+            href="https://codeashing.medium.com/"
             target="_blank"
             className="icon"
           >
@@ -44,7 +44,7 @@ const Introduction = () => {
           </a>
 
           <a
-            href="https://github.com/Asharib90"
+            href="https://github.com/codeashing"
             target="_blank"
             className="icon"
           >
