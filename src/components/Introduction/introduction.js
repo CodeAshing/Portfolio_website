@@ -87,7 +87,7 @@ const Introduction = () => {
 
 
         <div className="lines">
-          Asst Team Lead @ Star Marketing | Campus Expert @Github | Community Builder @AWS
+          Software Engineer @Beam | Campus Expert @Github | Community Builder @AWS
         </div>
       </div>
     </div>
