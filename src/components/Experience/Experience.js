@@ -29,10 +29,34 @@ export default function Experience() {
 
       <Accordion>
 
+
+      <AccordionItem expanded={expanded === 'panel1'} onChange={handleChange('panel1')}>
+          <AccordionItemHeading aria-controls="panel1d-content" id="panel1d-header">
+            <AccordionItemButton>
+              Software Engineer @Beam | Jun 23 - present
+            </AccordionItemButton>
+          </AccordionItemHeading>
+          <AccordionItemPanel>
+            <p>As an Software Engineer role at Beam where my primary responsibilities include:</p>
+            <ul>
+            <li><span>🚩</span>Design and develop robust and scalable server-side components.</li>
+            <li><span>🚩</span>Collaborate with cross-functional teams to define requirements and build efficient, secure, and reliable APIs and backend services.</li>
+            <li><span>🚩</span>Write clean, maintainable, and well-documented code using best practices and design patterns.</li>
+            <li><span>🚩</span>Optimise application performance and ensure scalability to handle large volumes of data and user traffic.</li>
+            <li><span>🚩</span>Implement data storage and retrieval mechanisms, including databases, caching layers, and search technologies.</li>
+            <li><span>🚩</span>Collaborate with the frontend team to define and integrate APIs using OpenAPI specs for seamless data exchange and user experience</li>
+            <li><span>🚩</span>Conduct code reviews, identify bugs, and propose solutions to ensure high code quality and system reliability.</li>
+            <li><span>🚩</span>Stay up-to-date with industry trends, emerging technologies, and best practices related to backend development.</li>
+            <li><span>🚩</span>Troubleshoot and resolve production issues in a timely manner.</li>
+            <li><span>🚩</span>Contribute to the continuous improvement of development processes and tools to enhance team productivity and efficiency.</li>
+            </ul>
+          </AccordionItemPanel>
+        </AccordionItem>
+
         <AccordionItem expanded={expanded === 'panel1'} onChange={handleChange('panel1')}>
           <AccordionItemHeading aria-controls="panel1d-content" id="panel1d-header">
             <AccordionItemButton>
-              Assistant Team Lead @Star Marketing | Jan 23 - Present
+              Assistant Team Lead @Star Marketing | Jan 23 - June 23
             </AccordionItemButton>
           </AccordionItemHeading>
           <AccordionItemPanel>
